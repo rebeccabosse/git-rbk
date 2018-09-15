@@ -1,0 +1,48 @@
+body{
+  margin:40px
+auto;max-width:650px;
+
+font-size:18px;
+padding:0 ;
+}
+h1 {
+color:green;
+font-family: Comic Sans MS;
+}
+h2 {
+color:green;
+font-family: Comic Sans MS;
+}
+h3 {
+color:green;
+font-family: Comic Sans MS;
+}
+p{
+  color: blue;
+  font-family:papyrus;
+}
+
+aside{
+  font-size: 20px;
+}
+
+.button-container{
+position: absolute;
+top:300px;
+  width: 100%;
+  left: 500px;
+
+}
+#button-container{
+  height: 100px;
+  width: 300px;
+    transition: 0.3s;
+  background-color: #eb2f06;
+  color: white;
+  font-family: helvetica;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+
+
+}
